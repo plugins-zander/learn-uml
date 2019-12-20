@@ -1,11 +1,10 @@
 # Summary
 
 * [本书简介](README.md)
-* [前导-软件建模概述](books/1019.md)
-    * [拓展](books/1015.md)
-        * [面向对象](books/1016.md)
-            * [基本概念](books/1017.md)
-            * [面向对象开发](books/1018.md)
+* [背景拓展](books/1017.md)
+    * [软件建模概述](books/1019.md)
+    * [面向对象](books/1016.md)
+    * [软件开发生命周期](books/1015.md)
 * [简介](books/1010.md)
     * [发展](books/1011.md)
     * [特点](books/1012.md)
@@ -52,5 +51,6 @@
     * [规则2/3](books/1058.md)
     * [公共机制3/3](books/1059.md)
 * [体系结构](books/1060.md)
+* [888](books/1018.md)
 * [end1061](books/1999.md)
 
